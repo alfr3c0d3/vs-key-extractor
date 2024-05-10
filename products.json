@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Visual Studio 2015 Enterprise",
+        "guid": "4D8CFBCB-2F6A-4AD2-BABF-10E28F6F2C8F",
+        "mpc": "07060"
+    },
+    {
+        "name": "Visual Studio 2015 Professional",
+        "guid": "4D8CFBCB-2F6A-4AD2-BABF-10E28F6F2C8F",
+        "mpc": "07062"
+    },
+    {
+        "name": "Visual Studio 2017 Enterprise",
+        "guid": "5C505A59-E312-4B89-9508-E162F8150517",
+        "mpc": "08860"
+    },
+    {
+        "name": "Visual Studio 2017 Professional",
+        "guid": "5C505A59-E312-4B89-9508-E162F8150517",
+        "mpc": "08862"
+    },
+    {
+        "name": "Visual Studio 2017 Test Professional",
+        "guid": "5C505A59-E312-4B89-9508-E162F8150517",
+        "mpc": "08866"
+    },
+    {
+        "name": "Visual Studio 2019 Enterprise",
+        "guid": "41717607-F34E-432C-A138-A3CFD7E25CDA",
+        "mpc": "09260"
+    },
+    {
+        "name": "Visual Studio 2019 Professional",
+        "guid": "41717607-F34E-432C-A138-A3CFD7E25CDA",
+        "mpc": "09262"
+    },
+    {
+        "name": "Visual Studio 2022 Enterprise",
+        "guid": "1299B4B9-DFCC-476D-98F0-F65A2B46C96D",
+        "mpc": "09660"
+    },
+    {
+        "name": "Visual Studio 2022 Professional",
+        "guid": "1299B4B9-DFCC-476D-98F0-F65A2B46C96D",
+        "mpc": "09662"
+    }
+]

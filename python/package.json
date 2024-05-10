@@ -1,0 +1,12 @@
+{
+  "name": "vs-key-extractor-py",
+  "version": "1.0.0",
+  "description": "Extracts the Visual Studio key from the current System",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python index.py"
+  },
+  "keywords": [],
+  "author": "Alfredo Morales",
+  "license": "ISC"
+}
